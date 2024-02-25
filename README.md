@@ -14,3 +14,5 @@ I have created a new branch called "feature-readmeupdate" to try and go through 
 Adding another line via Github editor.
 
 Added a line for the pullrequest attempt in GitHub.
+
+I'm adding a line to "fix" a feature. First I created a feature fix branch on GitHub, then pulled updates to my local repo, checked out that branch, made a change, and now I'm going to push the update back to GitHub. Let's see of that works!
